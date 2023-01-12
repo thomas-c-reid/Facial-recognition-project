@@ -5,3 +5,5 @@ This project gave me a chance to gain an understanding in computer vision with a
 including, SVM, KNN and NN. I also got the chance to use different facial feature extractors. To run any of the models, open the file "X Model" and choose an appropriate
 learning method and feature extractor. The implementation of the model is in the file "SVMImplementation". This project I found difficult as I was completing a group 
 assignment by myself, however I believe that it was because of this that I gained a better understanding of the module as a whole
+
+To see more about each of the models and how the system works, the full report is saved under "CSC3067 Group Project Report.pdf"
